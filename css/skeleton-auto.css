@@ -219,10 +219,9 @@ hr {
 */
 .avatar {
   width: 128px;
-  height: 128px;
+  height: 100%;
   object-fit: cover;
   background-position: center;
-  border-radius: 50%;
 }
 
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
